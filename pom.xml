@@ -7,6 +7,14 @@
     <artifactId>glowing-bassoon</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>glowing-blossom</name>
+    <dependencies>
+        <dependency>
+            <groupId>org.jetbrains</groupId>
+            <artifactId>annotations</artifactId>
+            <version>RELEASE</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
 
     <build>
         <plugins>
