@@ -1,5 +1,3 @@
-package ru.ingvord.glowing.bassoon;
-
 import java.time.Duration;
 import java.time.Instant;
 import java.util.concurrent.*;

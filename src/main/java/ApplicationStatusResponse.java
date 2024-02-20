@@ -1,5 +1,3 @@
-package ru.ingvord.glowing.bassoon;
-
 import org.jetbrains.annotations.Nullable;
 
 import java.time.Duration;

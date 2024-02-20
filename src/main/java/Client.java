@@ -1,5 +1,3 @@
-package ru.ingvord.glowing.bassoon;
-
 public interface Client {
     //блокирующий вызов сервиса 1 для получения статуса заявки
     Response getApplicationStatus1(String id);
